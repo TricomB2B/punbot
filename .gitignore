@@ -9,3 +9,4 @@ node_modules
 
 # database
 /db
+/data/punbot.db

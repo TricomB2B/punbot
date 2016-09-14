@@ -2,8 +2,9 @@
   "name": "punbot",
   "version": "0.0.1",
   "description": "Your friendly pun scoring slackbot.",
-  "main": "bin/bot.js",
+  "main": "lib/punbot.js",
   "scripts": {
+    "start": "bin/bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

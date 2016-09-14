@@ -1,0 +1,29 @@
+{
+  "name": "punbot",
+  "version": "0.0.1",
+  "description": "Your friendly pun scoring slackbot.",
+  "main": "bin/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TricomB2B/punbot.git"
+  },
+  "keywords": [
+    "puns",
+    "slackbots",
+    "tricomb2b"
+  ],
+  "author": "Todd Miller <todd.miller@tricomb2b.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TricomB2B/punbot/issues"
+  },
+  "homepage": "https://github.com/TricomB2B/punbot#readme",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "slackbots": "^0.5.2",
+    "sqlite3": "^3.1.4"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "punbot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Your friendly pun scoring slackbot.",
   "main": "lib/punbot.js",
   "scripts": {

@@ -19,3 +19,9 @@ var punbot = new PunBot({
 });
 
 punbot.run();
+
+blahblahblahblah();
+
+function blahblahblahblah () {
+  console.log('shut up pun');
+}
